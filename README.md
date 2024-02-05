@@ -21,3 +21,10 @@ Description of the Project:
  https://day.js.org/
 
  https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+
+
+ Link to the deployed application:
+ 
+ https://harsim3221.github.io/Weather-Forecast/
+
+ Screenshot of the deployed application:
