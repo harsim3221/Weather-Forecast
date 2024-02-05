@@ -28,3 +28,6 @@ Description of the Project:
  https://harsim3221.github.io/Weather-Forecast/
 
  Screenshot of the deployed application:
+
+ ![image](https://github.com/harsim3221/Weather-Forecast/assets/149484142/7623fb89-956b-4c2e-97ba-63db6fb3283c)
+
