@@ -130,7 +130,7 @@ function forecast(cityid){
     });
 }
 
-//Daynamically add the passed city on the search history
+//Dyanamically add the passed city on the search history
 function addToList(c){
     var listEl= $("<li>"+c.toUpperCase()+"</li>");
     $(listEl).attr("class","list-group-item");
